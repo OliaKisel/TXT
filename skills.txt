@@ -1,0 +1,9 @@
+Terminal
+Git
+HTTP
+Postman
+Charles
+Dev Tools
+SQL
+Jmeter
+Java Script
