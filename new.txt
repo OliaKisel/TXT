@@ -1,5 +1,7 @@
-Volha Kisel
-33
-0
-2000
+First name:Volha 
+Middle name:Alexandrovna
+Last name:Kisel
+Age:33
+Pets:0
+Salary:2000
 

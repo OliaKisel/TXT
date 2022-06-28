@@ -1,5 +1,5 @@
-The Shawshank Redemption
-the big bang theory
-pizza
-autumn
-USA
+favorite movie:The Shawshank Redemption
+favorite show:The big bang theory
+favorite food:pizza
+favorite season:autumn
+favotite trip:USA
